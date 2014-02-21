@@ -12,6 +12,6 @@ README file contains description for the project.
  We will registering our company soon and targetting to reach next level within one year of time span.
  
  
-www.MapApps.Com
+www.MapApps.com
 
  
